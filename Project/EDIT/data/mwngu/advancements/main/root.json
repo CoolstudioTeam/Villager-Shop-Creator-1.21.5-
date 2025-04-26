@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:structure_block"
+        },
+        "title": {
+            "text": "MWNGU's Datapacks",
+            "bold": true,
+            "color": "dark_aqua"
+        },
+        "description": {
+            "text": "Datapacks installed",
+            "color": "white",
+            "bold": false,
+            "italic": false
+        },
+        "background": "minecraft:textures/block/stripped_spruce_log.png",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "frame": "challenge"
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
